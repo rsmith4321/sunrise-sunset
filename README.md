@@ -1,4 +1,4 @@
-## Sunrish and Sunset ICS File Generator
+## Sunrise and Sunset ICS File Generator
 
 The script generates an iCalendar feed when accessed via a URL containing specific parameters. You can subscribe to this calendar using any typical calendar app such as Google Calendar or Fantastical. It will output the sunrise and sunset times for your location. This is great for photographers such as myself who need to 
 check sunrise and sunset for upcoming dates. 
